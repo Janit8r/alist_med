@@ -3,6 +3,7 @@ package handles
 import (
 	"net/http"
 	"strconv"
+	"strings"
 
 	"github.com/alist-org/alist/v3/internal/media"
 	"github.com/alist-org/alist/v3/internal/model"
